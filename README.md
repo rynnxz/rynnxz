@@ -1,6 +1,8 @@
 <h1 align="center">Yo 👋, I'm Akbar Riansyah</h1>
 <h3 align="center">A student who loves novelty</h3>
 
+<div class="tenor-gif-embed" align="center" data-postid="26191149" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/komi-cant-communicate-komi-komi-san-excited-gif-26191149">Komi Cant Communicate Komi Sticker</a>from <a href="https://tenor.com/search/komi+cant+communicate-stickers">Komi Cant Communicate Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rynnxz&label=Profile%20views&color=0e75b6&style=flat" alt="rynnxz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rynnxz" alt="rynnxz" /></a> </p>
