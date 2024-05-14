@@ -1,7 +1,8 @@
 <h1 align="center">Yo 👋, I'm Akbar Riansyah</h1>
 <h3 align="center">A student who loves novelty</h3>
 
-![komi-gif](https://github.com/rynnxz/rynnxz/blob/main/komi-cant-communicate-komi.gif)
+<img src="https://github.com/rynnxz/rynnxz/blob/main/komi-cant-communicate-komi.gif" alt="komi-gif" align="center">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rynnxz&label=Profile%20views&color=0e75b6&style=flat" alt="rynnxz" /> </p>
 
